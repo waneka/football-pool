@@ -16,7 +16,7 @@ This app will setup, manage, and live update fantasy football pools for major to
   * Golden boot standings (with percentages picked)
 * See standings of tournament results
 
-In the background, the app will poll livestandings
+
 
 
 <p align="center">

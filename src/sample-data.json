@@ -1,0 +1,288 @@
+[
+  {
+    "match_id": "323742",
+    "country_id": "169",
+    "country_name": "England",
+    "league_id": "62",
+    "league_name": "Premier League",
+    "match_date": "2018-09-17",
+    "match_status": "68'",
+    "match_time": "21:00",
+    "match_hometeam_name": "Southampton",
+    "match_hometeam_score": "2",
+    "match_awayteam_name": "Brighton &amp; Hove Albion",
+    "match_awayteam_score": "1",
+    "match_hometeam_halftime_score": "1",
+    "match_awayteam_halftime_score": "0",
+    "match_hometeam_extra_score": "",
+    "match_awayteam_extra_score": "",
+    "match_hometeam_penalty_score": "",
+    "match_awayteam_penalty_score": "",
+    "match_hometeam_system": "4-4-2",
+    "match_awayteam_system": "4-3-3",
+    "match_live": "1",
+    "goalscorer": [
+      {
+        "time": "35'",
+        "home_scorer": "P.  Pierre Hojbjerg",
+        "score": "1 - 0",
+        "away_scorer": ""
+      },
+      {
+        "time": "64'",
+        "home_scorer": "D.  Danny Ings",
+        "score": "2 - 0",
+        "away_scorer": ""
+      },
+      {
+        "time": "67'",
+        "home_scorer": "",
+        "score": "2 - 1",
+        "away_scorer": "S.  Shane Duffy"
+      }
+    ],
+    "cards": [
+      {
+        "time": "56'",
+        "home_fault": "C.  Cedric Soares",
+        "card": "yellowcard",
+        "away_fault": ""
+      }
+    ],
+    "lineup": {
+      "home": {
+        "starting_lineups": [
+          {
+            "lineup_player": "Alex McCarthy",
+            "lineup_number": "1",
+            "lineup_position": "1"
+          },
+          {
+            "lineup_player": "Cedric Soares",
+            "lineup_number": "2",
+            "lineup_position": "2"
+          },
+          {
+            "lineup_player": "Jannik Vestergaard",
+            "lineup_number": "4",
+            "lineup_position": "3"
+          },
+          {
+            "lineup_player": "Wesley Hoedt",
+            "lineup_number": "6",
+            "lineup_position": "4"
+          },
+          {
+            "lineup_player": "Ryan Bertrand",
+            "lineup_number": "21",
+            "lineup_position": "5"
+          },
+          {
+            "lineup_player": "Mohamed Elyounoussi",
+            "lineup_number": "11",
+            "lineup_position": "6"
+          },
+          {
+            "lineup_player": "Mario Lemina",
+            "lineup_number": "18",
+            "lineup_position": "7"
+          },
+          {
+            "lineup_player": "Pierre Hojbjerg",
+            "lineup_number": "23",
+            "lineup_position": "8"
+          },
+          {
+            "lineup_player": "Nathan Redmond",
+            "lineup_number": "22",
+            "lineup_position": "9"
+          },
+          {
+            "lineup_player": "Danny Ings",
+            "lineup_number": "9",
+            "lineup_position": "10"
+          },
+          {
+            "lineup_player": "Shane Long",
+            "lineup_number": "7",
+            "lineup_position": "11"
+          }
+        ],
+        "substitutes": [
+          {
+            "lineup_player": "Maya Yoshida",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Steven Davis",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Charlie Austin",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "James Ward Prowse",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Manolo Gabbiadini",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Angus Gunn",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Matt Targett",
+            "lineup_number": "",
+            "lineup_position": ""
+          }
+        ],
+        "coach": [],
+        "substitutions": []
+      },
+      "away": {
+        "starting_lineups": [
+          {
+            "lineup_player": "Solly March",
+            "lineup_number": "20",
+            "lineup_position": "11"
+          },
+          {
+            "lineup_player": "Glenn Murray",
+            "lineup_number": "17",
+            "lineup_position": "10"
+          },
+          {
+            "lineup_player": "Anthony Knockaert",
+            "lineup_number": "11",
+            "lineup_position": "9"
+          },
+          {
+            "lineup_player": "Yves Bissouma",
+            "lineup_number": "8",
+            "lineup_position": "8"
+          },
+          {
+            "lineup_player": "Dale Stephens",
+            "lineup_number": "6",
+            "lineup_position": "7"
+          },
+          {
+            "lineup_player": "Davy Propper",
+            "lineup_number": "24",
+            "lineup_position": "6"
+          },
+          {
+            "lineup_player": "Gaetan Bong",
+            "lineup_number": "3",
+            "lineup_position": "5"
+          },
+          {
+            "lineup_player": "Lewis Dunk",
+            "lineup_number": "5",
+            "lineup_position": "4"
+          },
+          {
+            "lineup_player": "Shane Duffy",
+            "lineup_number": "4",
+            "lineup_position": "3"
+          },
+          {
+            "lineup_player": "Martin Montoya",
+            "lineup_number": "22",
+            "lineup_position": "2"
+          },
+          {
+            "lineup_player": "Mathew Ryan",
+            "lineup_number": "1",
+            "lineup_position": "1"
+          }
+        ],
+        "substitutes": [
+          {
+            "lineup_player": "Bruno",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Beram Kayal",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Jurgen Locadia",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Leon Balogun",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Alireza Jahanbakhsh",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "David Button",
+            "lineup_number": "",
+            "lineup_position": ""
+          },
+          {
+            "lineup_player": "Bernardo",
+            "lineup_number": "",
+            "lineup_position": ""
+          }
+        ],
+        "coach": [],
+        "substitutions": []
+      }
+    },
+    "statistics": [
+      {
+        "type": "shots on target",
+        "home": "3",
+        "away": "2"
+      },
+      {
+        "type": "shots off target",
+        "home": "4",
+        "away": "3"
+      },
+      {
+        "type": "possession (%)",
+        "home": "55",
+        "away": "45"
+      },
+      {
+        "type": "corners",
+        "home": "1",
+        "away": "1"
+      },
+      {
+        "type": "offsides",
+        "home": "2",
+        "away": "1"
+      },
+      {
+        "type": "fouls",
+        "home": "5",
+        "away": "9"
+      },
+      {
+        "type": "goal kicks",
+        "home": "5",
+        "away": "7"
+      }
+    ]
+  }
+]
