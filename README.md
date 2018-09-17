@@ -19,11 +19,11 @@ This app will setup, manage, and live update fantasy football pools for major to
 
 ## Architecture
 
-Task runner that pings the football data API every 60 sec
-When games are actively being played - feed results to server (node)
-Server determines if events are duplicates, if not a new event is created and stored (event === goal scored)
-Server-side-event is created and sent to open connections (client)
-Client consists of React/Redux/Websockets to listen for new events, save in redux, display
+- Task runner that pings the football data API every 60 sec
+- When games are actively being played - feed results to server (node)
+- Server determines if events are duplicates, if not a new event is created and stored (event === goal scored)
+- Server-side-event is created and sent to open connections (client)
+- Client consists of React/Redux/Websockets to listen for new events, save in redux, display
 
 ## API endpoints for server
 
